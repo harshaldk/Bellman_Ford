@@ -1,0 +1,9 @@
+c IEM 5063 Bellman-Ford Project
+c matrix_100_1_3_1.txt
+c arc tail head weight in DIMACS 9th format
+p sp 100 186
+a 1 60 824
+a 60 1 8
+a 1 76 348
+
+
